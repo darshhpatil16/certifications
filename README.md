@@ -1,16 +1,67 @@
-## 🏆 Certifications
+# 🏆 Certifications
 
-### Google Cloud
+This repository contains my professional cloud and AI certifications.
 
-- ✅ Associate Cloud Engineer (ACE)
-- ✅ Gemini Enterprise Deployment
-- ✅ Gemini Enterprise Agent Development
+## ☁️ Google Cloud
 
-### Microsoft Azure
+### Associate Cloud Engineer (ACE)
 
-- ✅ Azure Developer Associate (AZ-204)
-- ✅ Azure Fundamentals (AZ-900)
+Skills Covered:
+- Google Cloud Infrastructure
+- Compute Engine
+- GKE
+- IAM
+- Networking
+- Monitoring & Logging
 
-### Achievements
+---
 
-- 🏅 SPOT Award – Wipro
+### Gemini Enterprise Deployment
+
+Skills Covered:
+- Enterprise AI Deployment
+- Gemini for Google Workspace
+- Security & Governance
+
+---
+
+### Gemini Enterprise Agent Development
+
+Skills Covered:
+- AI Agent Development
+- Enterprise Automation
+- Gemini Integrations
+
+---
+
+## 🔷 Microsoft Azure
+
+### Azure Developer Associate (AZ-204)
+
+Skills Covered:
+- Azure App Services
+- Azure Functions
+- Storage Accounts
+- Azure Monitoring
+- Security & Authentication
+
+---
+
+### Azure Fundamentals (AZ-900)
+
+Skills Covered:
+- Cloud Concepts
+- Azure Services
+- Security & Compliance
+- Pricing & Governance
+
+---
+
+## 🎯 Professional Focus
+
+- Cloud Engineering
+- Kubernetes
+- Terraform
+- DevOps
+- Multi-Cloud Architecture
+- Infrastructure Automation
