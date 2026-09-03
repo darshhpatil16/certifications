@@ -1,67 +1,90 @@
-# 🏆 Certifications
+# 🏆 Professional Certifications
 
-This repository contains my professional cloud and AI certifications.
-
-## ☁️ Google Cloud
-
-### Associate Cloud Engineer (ACE)
-
-Skills Covered:
-- Google Cloud Infrastructure
-- Compute Engine
-- GKE
-- IAM
-- Networking
-- Monitoring & Logging
+A collection of cloud and AI certifications demonstrating expertise in Cloud Engineering, DevOps, Infrastructure Automation, and Generative AI.
 
 ---
 
-### Gemini Enterprise Deployment
+## ☁️ Cloud Certifications
 
-Skills Covered:
-- Enterprise AI Deployment
-- Gemini for Google Workspace
-- Security & Governance
+### Google Cloud Platform (GCP)
 
----
-
-### Gemini Enterprise Agent Development
-
-Skills Covered:
-- AI Agent Development
-- Enterprise Automation
-- Gemini Integrations
+| Certification | Status |
+|--------------|---------|
+| Associate Cloud Engineer (ACE) | ✅ Certified |
 
 ---
 
-## 🔷 Microsoft Azure
+### Microsoft Azure
 
-### Azure Developer Associate (AZ-204)
-
-Skills Covered:
-- Azure App Services
-- Azure Functions
-- Storage Accounts
-- Azure Monitoring
-- Security & Authentication
+| Certification | Status |
+|--------------|---------|
+| Azure Developer Associate (AZ-204) | ✅ Certified |
+| Azure Fundamentals (AZ-900) | ✅ Certified |
 
 ---
 
-### Azure Fundamentals (AZ-900)
+## 🤖 Generative AI Certifications
 
-Skills Covered:
-- Cloud Concepts
-- Azure Services
-- Security & Compliance
-- Pricing & Governance
+| Certification | Status |
+|--------------|---------|
+| Gemini Enterprise Deployment | ✅ Completed |
+| Gemini Enterprise Agent Development | ✅ Completed |
+
+---
+
+## 📚 Skills Gained
+
+### Cloud Platforms
+- Google Cloud Platform (GCP)
+- Microsoft Azure
+- Amazon Web Services (AWS)
+
+### Containers & Orchestration
+- Kubernetes
+- Docker
+
+### Infrastructure as Code
+- Terraform
+
+### Databases
+- PostgreSQL
+- MySQL
+
+### Monitoring & Observability
+- Dynatrace
+
+### Version Control
+- Git
+- GitHub
 
 ---
 
 ## 🎯 Professional Focus
 
-- Cloud Engineering
+- Cloud Infrastructure
+- Kubernetes Administration
+- Infrastructure Automation
+- CI/CD Pipelines
+- Production Support
+- DevOps Best Practices
+- Platform Engineering
+
+---
+
+## 👨‍💻 About Me
+
+Cloud DevOps Engineer with hands-on experience in:
+
+- GCP
+- Azure
 - Kubernetes
 - Terraform
-- DevOps
-- Multi-Cloud Architecture
-- Infrastructure Automation
+- Docker
+- PostgreSQL
+- Production Support
+
+---
+
+## 📌 Verification
+
+Certificate screenshots and PDFs are maintained in this repository for verification purposes.
